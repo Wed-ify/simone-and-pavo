@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.233c48a2.css",
-    "main.js": "/static/js/main.8b2156a5.js",
+    "main.css": "/static/css/main.2dc4658b.css",
+    "main.js": "/static/js/main.2773f73f.js",
     "static/js/488.7213179a.chunk.js": "/static/js/488.7213179a.chunk.js",
+    "static/media/AccommodationOptions.pdf": "/static/media/AccommodationOptions.edd4125d1cdb7500efc9.pdf",
     "static/media/BankingDetails.pdf": "/static/media/BankingDetails.817e5fde0ac6ff42b406.pdf",
     "static/media/mainHeroImage.png": "/static/media/mainHeroImage.750c873da30977d5e05c.png",
     "static/media/venue.png": "/static/media/venue.6287f4d09d7a2c786bc1.png",
@@ -42,12 +43,12 @@
     "static/media/Gallery (3).png": "/static/media/Gallery (3).d1b4caabec1c6b6d3942.png",
     "static/media/Gallery (12).png": "/static/media/Gallery (12).4854bff8f67a537440bf.png",
     "index.html": "/index.html",
-    "main.233c48a2.css.map": "/static/css/main.233c48a2.css.map",
-    "main.8b2156a5.js.map": "/static/js/main.8b2156a5.js.map",
+    "main.2dc4658b.css.map": "/static/css/main.2dc4658b.css.map",
+    "main.2773f73f.js.map": "/static/js/main.2773f73f.js.map",
     "488.7213179a.chunk.js.map": "/static/js/488.7213179a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.233c48a2.css",
-    "static/js/main.8b2156a5.js"
+    "static/css/main.2dc4658b.css",
+    "static/js/main.2773f73f.js"
   ]
 }
