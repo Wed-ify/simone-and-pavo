@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.3e4a1317.css",
-    "main.js": "/static/js/main.5acd6252.js",
+    "main.js": "/static/js/main.1597e130.js",
     "static/js/488.e75445ad.chunk.js": "/static/js/488.e75445ad.chunk.js",
     "static/media/AccommodationOptions.pdf": "/static/media/AccommodationOptions.edd4125d1cdb7500efc9.pdf",
     "static/media/BankingDetails.pdf": "/static/media/BankingDetails.817e5fde0ac6ff42b406.pdf",
-    "static/media/monogram.png": "/static/media/monogram.76d6a751a1f5a166e074.png",
     "static/media/mainHeroImage.png": "/static/media/mainHeroImage.750c873da30977d5e05c.png",
     "static/media/venue.png": "/static/media/venue.6287f4d09d7a2c786bc1.png",
     "static/media/Gallery (9).png": "/static/media/Gallery (9).9d33858d2e9435d8eb18.png",
@@ -35,13 +34,14 @@
     "static/media/Gallery (26).png": "/static/media/Gallery (26).395b31a235acf57b8e8a.png",
     "static/media/Gallery (3).png": "/static/media/Gallery (3).d1b4caabec1c6b6d3942.png",
     "static/media/Gallery (12).png": "/static/media/Gallery (12).4854bff8f67a537440bf.png",
+    "static/media/monogram.png": "/static/media/monogram.4f6806a48b3faf2babcd.png",
     "index.html": "/index.html",
     "main.3e4a1317.css.map": "/static/css/main.3e4a1317.css.map",
-    "main.5acd6252.js.map": "/static/js/main.5acd6252.js.map",
+    "main.1597e130.js.map": "/static/js/main.1597e130.js.map",
     "488.e75445ad.chunk.js.map": "/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e4a1317.css",
-    "static/js/main.5acd6252.js"
+    "static/js/main.1597e130.js"
   ]
 }
